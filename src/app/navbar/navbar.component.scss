@@ -1,0 +1,16 @@
+.active
+{
+  transition: 0.5s;
+  border-bottom: 1px rgb(91, 42, 204) solid;
+  border-radius :5px;
+}
+a:hover
+{
+color:rgb(132, 92, 226) !important ;
+}
+i:hover
+{ cursor: pointer;
+color: rgb(132, 92, 226);
+font-size: larger;
+transition: .5s;
+}
